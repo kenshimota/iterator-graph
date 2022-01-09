@@ -1,0 +1,27 @@
+{
+  "name": "iterator-graph",
+  "version": "1.0.0",
+  "description": "library that helps the interaction of nodes of a given graph",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenshimota/iterator-graph.git"
+  },
+  "keywords": [
+    "graph",
+    "html",
+    "node",
+    "iterator",
+    "dfs",
+    "bfs"
+  ],
+  "author": "Erik Mota Galindo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kenshimota/iterator-graph./issues"
+  },
+  "homepage": "https://github.com/kenshimota/iterator-graph.#readme"
+}
